@@ -1,2 +1,7 @@
 # roomvu_task1
-NER
+
+First install nueralcoref:
+
+https://github.com/huggingface/neuralcoref
+
+
